@@ -81,7 +81,7 @@ void play(){
 	else if(turn=='O' && draw==0)
 	cout<<"\nCONGRATS "<<p1<<" has WON the game !!!...\n";
 	else
-	cout<<"Its a DRAW!!!...";
+	cout<<"\nIts a DRAW!!!...\n";
 	
 	char choice='y';
 	while(choice=='Y' || choice=='y')
